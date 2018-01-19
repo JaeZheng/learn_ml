@@ -75,7 +75,7 @@ def regularize(data):#regularize by columns
 
 
 def linear_regression():
-    data = np.loadtxt('linear_regression_single_variable.csv', delimiter=',')
+    data = np.loadtxt('../data/linear_regression_single_variable.csv', delimiter=',')
     # data = regularize(data)
     learning_rate = 0.01
     initial_b = 0.0

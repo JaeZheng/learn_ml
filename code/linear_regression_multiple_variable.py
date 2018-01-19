@@ -55,7 +55,7 @@ def optimizer(initial_para, x, y, learning_rate, num_iter):
 
 
 def linear_regression():
-    data = np.loadtxt('linear_regression_multiple_variable.csv', delimiter='\t')
+    data = np.loadtxt('../data/linear_regression_multiple_variable.csv', delimiter='\t')
     # 特征数量
     n = len(data[0])
     # 样本数量

@@ -58,7 +58,7 @@ def train(initial_para, x, y, learning_rate, num_iter):
 def load_dataset():
     dataMat = []
     labelMat = []
-    with open("logistic_regression_binary.csv", "r+") as file_object:
+    with open("../data/logistic_regression_binary.csv", "r+") as file_object:
         lines = file_object.readlines()
         for line in lines:
             line_array = line.strip().split()
