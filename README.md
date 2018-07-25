@@ -8,4 +8,4 @@ some basic machine learning algorithm code
 - 逻辑回归实现二分类
 
 ### 2018/07/25
-- 更新SSH
+- 实验室PC更新SSH
