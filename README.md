@@ -7,3 +7,5 @@ some basic machine learning algorithm code
 - 多元线性回归
 - 逻辑回归实现二分类
 
+### 2018/07/25
+- 更新SSH
