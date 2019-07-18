@@ -10,3 +10,6 @@ some basic machine learning algorithm code
 ### 2018/07/25
 - 实验室PC更新SSH
 - 加入TortoiseGit的SSH
+
+### 2019/07/18
+- PCA主成分分析（鸢尾花数据降维）
